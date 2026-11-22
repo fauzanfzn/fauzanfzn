@@ -21,6 +21,7 @@ I test platforms where failure is not an option. Over 5+ years at **Telkom Indon
 | AI in testing | Claude + MCP connectors (Playwright MCP), custom MCP server for QA, OpenCode |
 | API testing | REST Assured, Playwright API, Postman, Apidog, WireMock, JSON Schema / zod contracts |
 | Languages | TypeScript, JavaScript, Java, Python, Groovy |
+| Performance | k6 (thresholds/SLOs, web dashboard) |
 | CI/CD & reporting | GitHub Actions, Jenkins, GitLab CI, Allure |
 | QA process | Jira, TestRail, Agile/Scrum |
 
@@ -39,6 +40,7 @@ I test platforms where failure is not an option. Over 5+ years at **Telkom Indon
 | [ai-qa-automation-framework](https://github.com/fauzanfzn/ai-qa-automation-framework) | Playwright + TypeScript: UI E2E, visual regression, API contract (zod) and LLM chatbot evaluation, a QA readiness report, CI on GitHub Actions every push and every morning | [Live readiness report](https://fauzanfzn.github.io/ai-qa-automation-framework/readiness.html) |
 | [java-api-test-framework](https://github.com/fauzanfzn/java-api-test-framework) | Java 21 + REST Assured + JUnit 5: CRUD lifecycle, auth, JSON Schema contracts, WireMock resilience tests (retry, no duplicate POST), Allure report, daily CI | [Live Allure report](https://fauzanfzn.github.io/java-api-test-framework/) |
 | [qa-mcp-server](https://github.com/fauzanfzn/qa-mcp-server) | MCP server that gives Claude/Cursor QA tools: run tests, triage failures by root cause, release readiness score, flaky tracking, bug report drafts | [Demo in CI summary](https://github.com/fauzanfzn/qa-mcp-server/actions/workflows/ci.yml) |
+| [k6-performance-tests](https://github.com/fauzanfzn/k6-performance-tests) | k6: SLOs as thresholds, smoke gate before load, per-endpoint p95, functional checks under load, HTML dashboard published on every run | [Live k6 dashboard](https://fauzanfzn.github.io/k6-performance-tests/) |
 | [Portfolio site](https://fauzanfzn.github.io) | Who I am, impact in numbers, experience | [fauzanfzn.github.io](https://fauzanfzn.github.io) |
 
 ## Let's connect
