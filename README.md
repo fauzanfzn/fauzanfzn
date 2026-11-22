@@ -17,11 +17,11 @@ I test platforms where failure is not an option. Over 5+ years at **Telkom Indon
 
 | Area | Tools |
 | --- | --- |
-| Test automation | Playwright, Cypress, Selenium WebDriver, Katalon Studio |
-| AI in testing | Claude + MCP connectors (Playwright MCP), OpenCode |
-| API testing | Postman, Apidog, Katalon Studio |
-| Languages | Python, JavaScript, Groovy |
-| CI/CD | Jenkins, GitLab CI |
+| Test automation | Playwright, Cypress, Selenium WebDriver, Katalon Studio, JUnit 5 |
+| AI in testing | Claude + MCP connectors (Playwright MCP), custom MCP server for QA, OpenCode |
+| API testing | REST Assured, Playwright API, Postman, Apidog, WireMock, JSON Schema / zod contracts |
+| Languages | TypeScript, JavaScript, Java, Python, Groovy |
+| CI/CD & reporting | GitHub Actions, Jenkins, GitLab CI, Allure |
 | QA process | Jira, TestRail, Agile/Scrum |
 
 ## Experience
@@ -37,6 +37,8 @@ I test platforms where failure is not an option. Over 5+ years at **Telkom Indon
 | Project | What it shows | Links |
 | --- | --- | --- |
 | [ai-qa-automation-framework](https://github.com/fauzanfzn/ai-qa-automation-framework) | Playwright + TypeScript: UI E2E, visual regression, API contract (zod) and LLM chatbot evaluation, a QA readiness report, CI on GitHub Actions every push and every morning | [Live readiness report](https://fauzanfzn.github.io/ai-qa-automation-framework/readiness.html) |
+| [java-api-test-framework](https://github.com/fauzanfzn/java-api-test-framework) | Java 21 + REST Assured + JUnit 5: CRUD lifecycle, auth, JSON Schema contracts, WireMock resilience tests (retry, no duplicate POST), Allure report, daily CI | [Live Allure report](https://fauzanfzn.github.io/java-api-test-framework/) |
+| [qa-mcp-server](https://github.com/fauzanfzn/qa-mcp-server) | MCP server that gives Claude/Cursor QA tools: run tests, triage failures by root cause, release readiness score, flaky tracking, bug report drafts | [Demo in CI summary](https://github.com/fauzanfzn/qa-mcp-server/actions/workflows/ci.yml) |
 | [Portfolio site](https://fauzanfzn.github.io) | Who I am, impact in numbers, experience | [fauzanfzn.github.io](https://fauzanfzn.github.io) |
 
 ## Let's connect
