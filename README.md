@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Nur Fauzan
 
-**QA Automation Engineer / SDET** · Jakarta, Indonesia · Open to relocation (Japan, Germany, Canada, Malaysia, Qatar)
+**QA Automation Engineer / SDET** · Jakarta, Indonesia · Open to relocation
 
 I test platforms where failure is not an option. Over 5+ years at **Telkom Indonesia** I've owned QA for a national health platform with **104M+ registered users**, Indonesia's GovTech programme, and enterprise Generative AI products. My latest work: a **fully automated, AI-driven test framework** built with Playwright and Claude + MCP connectors that replaced manual checking with **4,800+ automated API checks across 210 endpoints per run**, plus E2E and visual regression.
 
@@ -34,8 +34,11 @@ I test platforms where failure is not an option. Over 5+ years at **Telkom Indon
 
 ## Projects
 
-- `ai-qa-automation-framework` — AI-driven Playwright framework (UI, API, visual, LLM evaluation) with CI on GitHub Actions. Coming soon.
+| Project | What it shows | Links |
+| --- | --- | --- |
+| [ai-qa-automation-framework](https://github.com/fauzanfzn/ai-qa-automation-framework) | Playwright + TypeScript: UI E2E, visual regression, API contract (zod) and LLM chatbot evaluation, a QA readiness report, CI on GitHub Actions every push and every morning | [Live readiness report](https://fauzanfzn.github.io/ai-qa-automation-framework/readiness.html) |
+| [Portfolio site](https://fauzanfzn.github.io) | Who I am, impact in numbers, experience | [fauzanfzn.github.io](https://fauzanfzn.github.io) |
 
 ## Let's connect
 
-[LinkedIn](https://www.linkedin.com/in/mnurfauzan-qa)
+[LinkedIn](https://www.linkedin.com/in/mnurfauzan-qa) · [Portfolio](https://fauzanfzn.github.io)
