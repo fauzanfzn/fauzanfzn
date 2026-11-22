@@ -32,10 +32,9 @@ I test platforms where failure is not an option. Over 5+ years at **Telkom Indon
 | INA Digital (GovTech) | 2024 | Built the QA function from scratch, PDP-Law quality gates, Cypress regression |
 | PeduliLindungi (104M+ users) | 2021 – 2023 | API automation, cross-platform testing, risk-based regression |
 
-## Featured projects
+## Projects
 
-- [bahana-katalon-test](https://github.com/fauzanfzn/bahana-katalon-test) — Katalon project for RESTful API and Kafka consumer testing
-- [qa-fauzanporto](https://github.com/fauzanfzn/qa-fauzanporto) — my QA portfolio website
+- `ai-qa-automation-framework` — AI-driven Playwright framework (UI, API, visual, LLM evaluation) with CI on GitHub Actions. Coming soon.
 
 ## Let's connect
 
